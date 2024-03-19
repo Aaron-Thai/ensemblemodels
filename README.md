@@ -14,6 +14,8 @@ Five models were created to feed into the overall ensemble model:
 
 The goal of each classification model is to predict whether an observation is **benign** or **malignant**.
 
+Ensemble results were calculated by majority vote.
+
 The ROC curves for all models is shown below to compare accuracy results.
 
 ![image](ROC_Curve_All_Models.jpg)
